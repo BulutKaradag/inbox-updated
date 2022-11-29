@@ -1,2 +1,4 @@
-.DS_Store
-node_modules
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
